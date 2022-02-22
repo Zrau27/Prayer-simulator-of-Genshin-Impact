@@ -7,4 +7,4 @@ I implemented resident-pool and up-pool successfully, and made the function of t
 
 contact me: QQ 2168056182
 
-Statement: this software does not represent the true situation of the Geshine Impact prayer
+Statement: this software does not represent the true situation of the Geshine Impact wish
